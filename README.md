@@ -1,4 +1,4 @@
-# SQLAlchemy Challenge: Climate Analysis and Exploration
+# SQLAlchemy: Climate Analysis and Exploration
 
 ## Project Objective
 
